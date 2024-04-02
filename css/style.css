@@ -140,15 +140,14 @@ ul{
         width: 90%;
     }
 
-    .profile-img img{
-        width: 100px;
-    }
     #header .title h1{
         font-size: 2.5rem;
     }
+
     h2{
         text-align: center;
     }
+    
     .link-btn{
         width: 90% !important;
     }
